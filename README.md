@@ -3,10 +3,10 @@
 ## Screenshots
 
 <div>
-  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-01.png" alt="Screenshot 1" title="Screenshot 1" width="200"/>
-  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-11.png" alt="Screenshot 2" title="Screenshot 2" width="200"/>
-  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-20.png" alt="Screenshot 3" title="Screenshot 3" width="200"/>
-  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-48.png" alt="Screenshot 4" title="Screenshot 4" width="200"/>
+  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-01.png" alt="Screenshot 1" title="Screenshot 1" height="300"width="200"/>
+  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-11.png" alt="Screenshot 2" title="Screenshot 2" height="300"width="200"/>
+  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-20.png" alt="Screenshot 3" title="Screenshot 3" height="300"width="200"/>
+  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-48.png" alt="Screenshot 4" title="Screenshot 4" height="300"width="200"/>
 </div>
 
 ## Introduction
