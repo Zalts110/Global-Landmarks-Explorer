@@ -1,5 +1,14 @@
 # Global Landmarks Explorer
 
+## Screenshots
+
+<div>
+  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-01.png" alt="Screenshot 1" title="Screenshot 1" width="200"/>
+  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-11.png" alt="Screenshot 2" title="Screenshot 2" width="200"/>
+  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-20.png" alt="Screenshot 3" title="Screenshot 3" width="200"/>
+  <img src="https://github.com/BenMishael/Global-Landmarks-Explorer/blob/main/screenshots/Screenshot%20from%202024-03-10%2019-09-48.png" alt="Screenshot 4" title="Screenshot 4" width="200"/>
+</div>
+
 ## Introduction
 Global Landmarks Explorer is an integrated project aimed at providing users with an immersive experience in exploring the world's most iconic landmarks. This project encompasses a Python-powered API, a Flutter-based mobile application, and a reusable API library, all designed to work seamlessly to offer detailed information, images, and user interactions for landmarks around the globe.
 
