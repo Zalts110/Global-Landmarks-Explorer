@@ -80,8 +80,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Contact
 - **Project Lead:** Ben Mishael, Yuval Zaltsman
-- **Email:** [ben.mishael@gmail.com](mailto:ben.mishael@gmail.com)
-- **GitHub:** [https://github.com/BenMishael/Global-Landmarks-Explorer](https://github.com/BenMishael/Global-Landmarks-Explorer)
+- **Email:** [zalts110@gmail.com](mailto:zalts110@gmail.com)
+- **GitHub:** [https://github.com/Zalts110/Global-Landmarks-Explorer](https://github.com/Zalts110/Global-Landmarks-Explorer)
 
 Thank you for your interest in Global Landmarks Explorer. We hope this project inspires you to explore and appreciate the rich cultural heritage our world has to offer!
 ```
